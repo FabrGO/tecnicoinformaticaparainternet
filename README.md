@@ -1,0 +1,2 @@
+# tecnicoinformaticaparainternet
+atividades do curso
