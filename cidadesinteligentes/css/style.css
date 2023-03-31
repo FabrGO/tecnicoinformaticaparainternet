@@ -1,0 +1,158 @@
+*{
+    margin: 0;
+}
+
+header{
+    background-color: #88CA5E;
+    height: 600px;
+}
+.titulo{
+    margin-top: 169px;
+    padding-left: 200px;
+}
+
+.input{
+    border: none;
+    border-radius: 20px;
+    width: 200px;
+    height: 45px;
+    margin-left: 20px;
+}
+
+.btn{
+    border: none;
+    border-radius: 20px;
+    height: 45px;
+    width: 130px;
+    background-color: rgb(10, 9, 9);
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+.text{
+   padding-left: 20px;
+   font-size: 80px;
+}
+
+.area-menu{
+    margin-left: 680px;
+}
+
+.area-menu a{
+    text-decoration: none;
+    font-size: 28px;
+}
+
+.area-menu a:link, .area-menu a:visited{
+    color: #FFF;
+    padding: 8px 12px;
+    border-radius: 6px;
+
+    transition: .3s;
+}
+
+.area-menu a:hover{
+    background-color:black;
+        color: #fff;
+    }
+.imgh-area{
+    margin-top: 1px;
+    margin-left: 860px;
+    position: absolute;
+    top: -3px;
+    margin-top: 50px;
+
+}
+
+.imgh{
+    width: 500px;
+    height: 500px;
+}
+
+
+/* main */
+
+.Home{
+    text-align: left;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 46px;
+    margin-left: 409px;
+}
+
+.content{
+    display: flex;
+}
+
+.text-Home{
+    margin-left: 300px;
+}
+
+.text-Home1{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.foto-Home{
+    margin-right: 300px;
+}
+
+.img{
+    height: 700px;
+    width: 600px;
+}
+
+.img2{
+    margin-top: 10px;
+    margin-left: 490px;
+    border-radius: 50px;
+    margin-bottom: 10px;
+    height: 600px;
+    width: 600px;
+}
+
+.p{
+    font-size: 40px;
+    text-align: center;
+}
+
+
+.footer{
+    background-color: black;
+    height: 300px;
+    margin-top: 400px;
+    text-align: center;
+    
+}
+.contato{
+    color: white;
+    font-size: 30px;
+    text-align: left;
+    margin-top: 89px;
+}
+.email{
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 1000px;
+
+    
+}
+.creditos{
+    color: white;
+    font-size: 16px;
+    position: absolute;
+    margin-top: 260px;
+    margin-left: 200px;
+     
+}
+.text-footer{
+    color: white;
+    font-size: 60px;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 200px;
+    
+}
